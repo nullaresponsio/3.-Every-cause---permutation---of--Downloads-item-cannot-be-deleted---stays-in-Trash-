@@ -1,0 +1,185 @@
+======= /System/Library/Kernels/kernel =======
+0xffffff8000faceaf hit3_0 .rsonalities for [33mI/O Kit[0m drivers.__BUIL.
+0xffffff8000bc128e hit3_1 .ockQueueElement[33mI/O Kit[0m: Unrecoverable .
+0xffffff8001241dab hit6_0 .acktrace_print_[33mlaunchd[0m_info_print_one.
+0xffffff8000b3d7ee hit6_1 .ot sent back to [33mlaunchd[0m @%s:%dService .
+0xffffff8000b3d82e hit6_2 .atch the stored [33mlaunchd[0m port name = 0x%.
+0xffffff8000b3eace hit6_3 .ple.private.xpc.[33mlaunchd[0m.event-monitorc.
+0xffffff8000b96c9a hit6_4 .ddressing/sbin/[33mlaunchd[0mexec_resettextv.
+0xffffff8000b96dec hit6_5 . indicator that [33mlaunchd[0m has reached mai.
+0xffffff8000bbe92d hit6_6 . %sINFO[33mlaunchd[0mtestprocessio.
+0xffffff8000b49c10 hit7_0 .fst:%lld @%s:%d[33mWindowServer[0m%s:%d WindowSer.
+0xffffff8000b49c23 hit7_1 .dowServer%s:%d [33mWindowServer[0m VM Debugging pa.
+0xffffff8000b4a498 hit7_2 .%d @%s:%d%s:%d [33mWindowServer[0m VM Debugging pa.
+0xffffff8000b4a4f8 hit7_3 .te_nested%s:%d [33mWindowServer[0m VM Debugging pa.
+0xffffff8000b4a54d hit7_4 .y ptr %p%s:%d [33mWindowServer[0m VM Debugging pa.
+0xffffff8000b4a592 hit7_5 .y ptr %p%s:%d [33mWindowServer[0m VM Debugging pa.
+9297  0x00571180 0xffffff8000771180 GLOBAL FUNC 0        _csr_check
+19826 0x005711e0 0xffffff80007711e0 GLOBAL FUNC 0        _syscall_csr_check
+0xffffff8000b62bf0 hit18_0 .getnamedstream[33mcom.apple.Finder[0mInfo/private/va.
+
+======= /sbin/launchd =======
+0x100080b34 hit6_0 ._simple_reinit_4[33mlaunchd[0m__os_log_simple.
+0x100080b74 hit6_1 .ith_datavolume_4[33mlaunchd[0m__xpc_dictionar.
+0x100081622 hit6_2 .ter_boot_tasks_4[33mlaunchd[0m_listen_localt.
+0x100081d3e hit6_3 .s_variant_init_4[33mlaunchd[0m_os_variant_is_.
+0x1000878c0 hit6_4 ._simple_reinit_4[33mlaunchd[0m__os_log_simple.
+0x100087900 hit6_5 .ith_datavolume_4[33mlaunchd[0m__os_xbs_chroot.
+0x1000886ae hit6_6 .ter_boot_tasks_4[33mlaunchd[0m_listen_localt.
+0x100088e2b hit6_7 .s_variant_init_4[33mlaunchd[0m_os_variant_is_.
+0x10008a16a hit6_8 .com.apple.xpc.[33mlaunchd[0m7V3 ?.
+0x10008b3ec hit6_9 .com.apple.xpc.[33mlaunchd[0mqq*<.
+0x10008b95c hit6_10 .ecurity.storage.[33mlaunchd[0m</key><true/>.
+0x10008bfa1 hit6_11 .ecurity.storage.[33mlaunchd[0m061com.apple.
+0x100000292 hit6_12 .__[33mlaunchd[0m__TEXT.
+0x100000476 hit6_13 .__dof_[33mlaunchd[0m__TEXT.
+0x1000570fc hit6_14 .@(#)PROGRAM:[33mlaunchd[0m  PROJECT:libxpc.
+0x100057cb0 hit6_15 .leRoot node of [33mlaunchd[0m.plist is not a .
+0x100057e4e hit6_16 .xpc_executables/[33mlaunchd[0m/service_create..
+0x100058d35 hit6_17 . sense for this [33mlaunchd[0m instance_Limit.
+0x100058ddc hit6_18 . sense for this [33mlaunchd[0m instance_Limit.
+0x100058e54 hit6_19 . sense for this [33mlaunchd[0m instance_Limit.
+0x100058f3f hit6_20 .scom.apple.xpc.[33mlaunchd[0msecurity.mac.am.
+0x10005b8e3 hit6_21 .chingcom.apple.[33mlaunchd[0m.QueueDirectorie.
+0x10005b911 hit6_22 .Pathscom.apple.[33mlaunchd[0m.WatchPathsPoli.
+0x10005bde0 hit6_23 ..%llucom.apple.[33mlaunchd[0m.calendarinterva.
+0x10005be84 hit6_24 .Statecom.apple.[33mlaunchd[0m.PathStateSucce.
+0x10005c510 hit6_25 ..com.apple.xpc.[33mlaunchd[0m.shutdownstalle.
+0x10005cdca hit6_26 .ecom.apple.xpc.[33mlaunchd[0m.serialqcom.app.
+0x10005ce67 hit6_27 .ple.private.xpc.[33mlaunchd[0m.app-servercom..
+0x10005ce90 hit6_28 .ple.private.xpc.[33mlaunchd[0m.storage-mounter.
+0x10005cebe hit6_29 .ple.private.xpc.[33mlaunchd[0m.per-user-lookup.
+0x10005ceec hit6_30 .ple.private.xpc.[33mlaunchd[0m.per-user-create.
+0x10005cf26 hit6_31 .ple.private.xpc.[33mlaunchd[0m.event-monitorc.
+0x10005cf99 hit6_32 .ple.private.xpc.[33mlaunchd[0m.app-state-manag.
+0x10005cfc9 hit6_33 .ple.private.xpc.[33mlaunchd[0m.loginitem-boots.
+0x10005cffe hit6_34 .ple.private.xpc.[33mlaunchd[0m.obliteratorcom.
+0x10005d0c1 hit6_35 .ple.private.xpc.[33mlaunchd[0m.loginitem-outsi.
+0x10005d0f8 hit6_36 .ple.private.xpc.[33mlaunchd[0m.userspace-reboo.
+0x10005d127 hit6_37 .ple.private.xpc.[33mlaunchd[0m.reboot-pivot-ro.
+0x10005d157 hit6_38 .ple.private.xpc.[33mlaunchd[0m.rebootcom.appl.
+0x10005d17c hit6_39 .ple.private.xpc.[33mlaunchd[0m.service-holdco.
+0x10005d1a7 hit6_40 .ple.private.xpc.[33mlaunchd[0m.enable-disable-.
+0x10005d1e4 hit6_41 .ple.private.xpc.[33mlaunchd[0m.service-statsc.
+0x10005d284 hit6_42 .ple.private.xpc.[33mlaunchd[0m.job-managercom.
+0x10005d2ae hit6_43 .ple.private.xpc.[33mlaunchd[0m.job-manager-rem.
+0x10005d3f5 hit6_44 .ple.private.xpc.[33mlaunchd[0m.persist-to-boot.
+0x10005d428 hit6_45 .ple.private.xpc.[33mlaunchd[0m.job-querycom.a.
+0x10005d47f hit6_46 .ple.private.xpc.[33mlaunchd[0m.allowed-manage-.
+0x10005d4ba hit6_47 .ple.private.xpc.[33mlaunchd[0m.allowed-complet.
+0x10005d4ff hit6_48 .ple.private.xpc.[33mlaunchd[0m.allowed-coaliti.
+0x10005e1f3 hit6_49 .uiescing queues[33mlaunchd[0m quiesce complet.
+0x10005e430 hit6_50 .scom.apple.xpc.[33mlaunchd[0m.system-override.
+0x10005e4e9 hit6_51 .taken too long. [33mlaunchd[0m is rebooting(o.
+0x10005e7ed hit6_52 .scom.apple.xpc.[33mlaunchd[0m.eventqcom.appl.
+0x10005e80a hit6_53 .qcom.apple.xpc.[33mlaunchd[0m.ioqcom.apple.x.
+0x10005e824 hit6_54 .qcom.apple.xpc.[33mlaunchd[0m.bgioqcom.apple.
+0x10005e840 hit6_55 .qcom.apple.xpc.[33mlaunchd[0m.bglogq%s/%s(l.
+0x10005ea12 hit6_56 .dev/nullhello, [33mlaunchd[0m UUID: %skern.b.
+0x10005efe5 hit6_57 .scom.apple.xpc.[33mlaunchd[0m.timeoutshutdow.
+0x10005f041 hit6_58 .tem/Library/xpc/[33mlaunchd[0m.plistError rel.
+0x10005f7b2 hit6_59 .ixup-mobile-tmp[33mlaunchd[0m has not fixed m.
+0x10005f7f3 hit6_60 .e/tmp/com.apple.[33mlaunchd[0m.XXXXXXXXXXFail.
+0x1000634a2 hit6_61 .mcom.apple.xpc.[33mlaunchd[0m.domain.systemu.
+0x1000634cb hit6_62 .rcom.apple.xpc.[33mlaunchd[0m.domain.userlog.
+0x1000634f3 hit6_63 .ncom.apple.xpc.[33mlaunchd[0m.domain.user-log.
+0x10006351b hit6_64 .ncom.apple.xpc.[33mlaunchd[0m.domain.pidmana.
+0x1000638ea hit6_65 .xpc_executables/[33mlaunchd[0m/domain.cCould .
+0x100063c46 hit6_66 .)com.apple.xpc.[33mlaunchd[0m.pre-rebootwait.
+0x100063f90 hit6_67 .es/%sforbidden-[33mlaunchd[0m-operationproce.
+0x1000640f8 hit6_68 .ncom.apple.xpc.[33mlaunchd[0m.user.domain.%u..
+0x100065663 hit6_69 .declared in its [33mlaunchd[0m.plist(5): servi.
+0x100065913 hit6_70 .scom.apple.xpc.[33mlaunchd[0m.unmanaged.confu.
+0x100065943 hit6_71 .dcom.apple.xpc.[33mlaunchd[0m.unmanaged.%s.%d.
+0x1000663b8 hit6_72 .tcom.apple.xpc.[33mlaunchd[0m.external-activa.
+0x1000677c9 hit6_73 .ted by kernel - [33mlaunchd[0m got a SIGTERMr.
+0x100067dbb hit6_74 .ow/%u%s/%lu%s/[33mlaunchd[0m.log%s/launchd..
+0x100067dca hit6_75 ./launchd.log%s/[33mlaunchd[0m.log.1%s/launch.
+0x100067ddb hit6_76 .aunchd.log.1%s/[33mlaunchd[0m.log.2launchd.l.
+0x100067de9 hit6_77 .s/launchd.log.2[33mlaunchd[0m.log: open(%s): .
+0x100067e06 hit6_78 .open(%s): %dw[33mlaunchd[0m.log: fdopen(%s).
+0x100068907 hit6_79 .am %scom.apple.[33mlaunchd[0m.helpercom.appl.
+0x1000689d4 hit6_80 .erties plist in [33mlaunchd[0m (%u)error pars.
+0x10006955a hit6_81 .y mode-s/sbin/[33mlaunchd[0mXPC_IN_REMXPC_.
+0x100069671 hit6_82 .: %sAPI Misuse[33mlaunchd[0m logging initial.
+0x1000696b1 hit6_83 .ecom.apple.xpc.[33mlaunchd[0m.logq/private/%.
+0x100069956 hit6_84 . conversion: %d[33mlaunchd[0mUnable to recor.
+0x10006b280 hit6_85 .g/com.apple.xpc.[33mlaunchd[0m/private/var/db.
+0x10006b2a6 hit6_86 .b/com.apple.xpc.[33mlaunchd[0m/usr/libexec/xp.
+0x10006b301 hit6_87 .__TEXT__config[33mlaunchd[0m built improperl.
+0x10006b33f hit6_88 .om.apple.libxpc.[33mlaunchd[0mafter the users.
+0x10006b3b9 hit6_89 .kern.osrelease[33mlaunchd[0m_disable_all_tim.
+0x10006b491 hit6_90 .c/com.apple.xpc.[33mlaunchd[0m.limits.plistMa.
+0x10006b4d0 hit6_91 .b/com.apple.xpc.[33mlaunchd[0m/config/system.p.
+0x10006b50a hit6_92 .b/com.apple.xpc.[33mlaunchd[0m/config/user.pli.
+0x10006b583 hit6_93 .-v-no-corpses[33mlaunchd[0m_force_data_stat.
+0x10006b5ad hit6_94 .rc.trampoline=[33mlaunchd[0m_instance_limit=.
+0x10006b5c5 hit6_95 .instance_limit=[33mlaunchd[0m_usr_abandon_unm.
+0x10006b5e4 hit6_96 .ndon_unmanaged=[33mlaunchd[0m_verbose_coaliti.
+0x10006b604 hit6_97 .coalition_logs=[33mlaunchd[0m_workload_proper.
+0x10006b62a hit6_98 .rties_disabled=[33mlaunchd[0m_automation=BAT.
+0x10006b68c hit6_99 .PCLogToConsole[33mlaunchd[0m_log_serial=Use.
+0x10006b71c hit6_100 .erboseMetaLimit[33mlaunchd[0m_log_verbose_met.
+0x10006b7fa hit6_101 .wnReportTimeout[33mlaunchd[0m_shutdown_report.
+0x10006b87a hit6_102 .usr/local/share/[33mlaunchd[0m-disable-memory-.
+0x10006b8a5 hit6_103 .tsSyncInterval[33mlaunchd[0m_sync_interval=.
+0x10006b8e8 hit6_104 .SuddenShutdown[33mlaunchd[0m_sudden_shutdown.
+0x10006b9c3 hit6_105 ./private/var/db/[33mlaunchd[0m.dbcom.apple.la.
+0x10006b9d8 hit6_106 .hd.dbcom.apple.[33mlaunchd[0m%s/overrides.pl.
+0x10006b9fd hit6_107 .plistcom.apple.[33mlaunchd[0m.peruser.%ufail.
+0x10006ba33 hit6_108 ./private/var/db/[33mlaunchd[0m.db, 0x%x): %d: .
+0x10006ba73 hit6_109 .x/com.apple.xpc.[33mlaunchd[0m.rootless.plist.
+0x10006bc23 hit6_110 .les-3089.0.5~24/[33mlaunchd[0m/RELEASE_ARM64E.
+0x10006bcb3 hit6_111 .les-3089.0.5~24/[33mlaunchd[0m/RELEASE_ARM64E.
+0x10006bd5f hit6_112 .install/Symbols/[33mlaunchd[0mder_vm_execute_.
+0x10006ccc5 hit6_113 .e</key><string>[33mlaunchd[0m</string><key>C.
+0x10006cd0a hit6_114 .g>com.apple.xpc.[33mlaunchd[0m</string><key>C.
+0x10006cd79 hit6_115 .e</key><string>[33mlaunchd[0m</string><key>C.
+0x1000710b1 hit6_116 ._delegate_spawn[33mlaunchd[0m.
+0x100057e82 hit7_0 ._NAMEcom.apple.[33mWindowServer[0mcom.apple.login.
+114 0x100055388 NONE FUNC               csr_check
+74   0x000e5388 0x100055388 LOCAL  FUNC 0        imp.csr_check
+0x10008bb29 hit12_0 .<true/><key>[33mcom.apple.rootless[0m.restricted-bloc.
+0x10008bb6a hit12_1 .<true/><key>[33mcom.apple.rootless[0m.storage.early_b.
+0x10008bbab hit12_2 .<true/><key>[33mcom.apple.rootless[0m.volume.Preboot<.
+0x10008c0f6 hit12_3 .ivot-root00+[33mcom.apple.rootless[0m.restricted-bloc.
+0x10008c128 hit12_4 .k-devices00+[33mcom.apple.rootless[0m.storage.early_b.
+0x10008c15a hit12_5 .oot_mount0&![33mcom.apple.rootless[0m.volume.Preboot.
+0x10005cf3c hit12_6 .d.event-monitor[33mcom.apple.rootless[0m.xpc.effective-r.
+0x10005cf62 hit12_7 ..effective-root[33mcom.apple.rootless[0m.xpc.bootstrapc.
+
+======= /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder =======
+0x1009bcdc0 hit1_0 .ry/CoreServices/[33mboot.efi[0mSystem/Library/.
+0x100be3ef9 hit7_0 .ariumEnabled_NS[33mWindowServer[0mBarrier__NSSetD.
+0x100c41992 hit7_1 .Notification_NS[33mWindowServer[0mBarrier_NSWindo.
+0x100bd3ef9 hit7_2 .ariumEnabled_NS[33mWindowServer[0mBarrier__NSSetD.
+0x1009ce83c hit7_3 .tCanHostLayersIn[33mWindowServer[0m:TB,N,V_support.
+0x1009f7132 hit7_4 .PreviewLayerIsIn[33mWindowServer[0minlinePreviewMi.
+0x100a0a479 hit7_5 .HostingLayerIsIn[33mWindowServer[0m:setHour:setHu.
+0x1009aa356 hit8_0 .ry/CoreServices/[33mFinder.app[0m/Contents/Resour.
+0x1009b122a hit8_1 .on.inProgress/[33mFinder.app[0m/Contents/Resour.
+0x1009ba5ec hit8_2 .ry/CoreServices/[33mFinder.app[0m/iCloud Drive.a.
+0x1009bcd99 hit8_3 .ry/CoreServices/[33mFinder.app[0mSystem/Library/.
+0x1009bce96 hit8_4 .ibraryDrop Box[33mFinder.app[0mMobile Document.
+1392 0x1007fdffc NONE FUNC               BRGetCloudDocsRootURL
+645   0x01441ffc 0x1007fdffc LOCAL FUNC 0        imp.BRGetCloudDocsRootURL
+1818 0x1007ff90c NONE FUNC               FSEventStreamCreate
+1819 0x1007ff91c NONE FUNC               FSEventStreamFlushAsync
+1820 0x1007ff92c NONE FUNC               FSEventStreamInvalidate
+1821 0x1007ff93c NONE FUNC               FSEventStreamRelease
+1822 0x1007ff94c NONE FUNC               FSEventStreamSetDispatchQueue
+1823 0x1007ff95c NONE FUNC               FSEventStreamSetExclusionPaths
+1824 0x1007ff96c NONE FUNC               FSEventStreamStart
+1825 0x1007ff97c NONE FUNC               FSEventStreamStop
+1046  0x0144390c 0x1007ff90c LOCAL FUNC 0        imp.FSEventStreamCreate
+1047  0x0144391c 0x1007ff91c LOCAL FUNC 0        imp.FSEventStreamFlushAsync
+1048  0x0144392c 0x1007ff92c LOCAL FUNC 0        imp.FSEventStreamInvalidate
+1049  0x0144393c 0x1007ff93c LOCAL FUNC 0        imp.FSEventStreamRelease
+1050  0x0144394c 0x1007ff94c LOCAL FUNC 0        imp.FSEventStreamSetDispatchQueue
+1051  0x0144395c 0x1007ff95c LOCAL FUNC 0        imp.FSEventStreamSetExclusionPaths
+1052  0x0144396c 0x1007ff96c LOCAL FUNC 0        imp.FSEventStreamStart
+1053  0x0144397c 0x1007ff97c LOCAL FUNC 0        imp.FSEventStreamStop
+0x1009ab252 hit18_0 .ensionPointName[33mcom.apple.Finder[0mSynccom.apple.f.
+0x1009c0410 hit18_1 .s[33mcom.apple.Finder[0m.
+
+Complete log: /tmp/trashmap.JWiBgr.log
